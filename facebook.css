@@ -1,0 +1,39 @@
+body { 
+    background-color: rgb(177, 174, 209);
+}
+/* div { 
+    text-align: center;
+    background-color: rgb(94, 100, 100);
+    padding: 40px 20px 40px 20px ;
+    color: rgb(255, 255, 255);
+} */
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input {
+    padding-bottom: 1px;
+}
+a {
+    text-decoration: none;
+    color: rgb(24, 24, 73);
+}
+.a01 {
+    border: 1px solid rgb(159, 167, 214);
+    background-color:rgb(159, 167, 214) ;
+}
+.log {
+    max-width: 100px;
+    background-color: rgb(54, 54, 117);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(54, 54, 117);
+}
+b {color: rgb(183, 233, 183);}
+div {
+    background-color: rgb(117, 109, 145);
+    width: 400px;
+    border: 1px solid rgb(163, 173, 163);
+    padding: 70px;
+    margin: 10px;
+    text-align: center;
+    color: white;
+  }
